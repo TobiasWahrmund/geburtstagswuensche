@@ -32,4 +32,13 @@ export const gifts = [
     url: "https://www.amazon.com/Mastering-Art-French-Cooking-One/dp/B006D1RGKC",
     image: "https://m.media-amazon.com/images/I/81hoR1jFXOL._SL1500_.jpg"
   }
+
+  {
+    id: "mandolineg",
+    title: "Küchen-Mandoline",
+    description: "Ist nur ein Vorschlag, aber bitte etwas aus Deutschland :)",
+    price: "54,90€",
+    url: "https://www.boerner.de/borner-vital-mandolin-basis-set/",
+    image: "https://www.boerner.de/wp-content/uploads/2022/04/B09LMB8V21.MAIN_.jpg"
+  }
 ];
