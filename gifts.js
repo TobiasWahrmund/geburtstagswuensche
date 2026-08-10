@@ -31,10 +31,10 @@ export const gifts = [
     price: "49,23€",
     url: "https://www.amazon.com/Mastering-Art-French-Cooking-One/dp/B006D1RGKC",
     image: "https://m.media-amazon.com/images/I/81hoR1jFXOL._SL1500_.jpg"
-  }
+  },
 
   {
-    id: "mandolineg",
+    id: "mandoline",
     title: "Küchen-Mandoline",
     description: "Ist nur ein Vorschlag, aber bitte etwas aus Deutschland :)",
     price: "54,90€",
