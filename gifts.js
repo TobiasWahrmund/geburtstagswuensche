@@ -42,7 +42,7 @@ export const gifts = [
     image: "https://www.boerner.de/wp-content/uploads/2022/04/B09LMB8V21.MAIN_.jpg"
   },
 
-{
+  {
     id: "fallerMarmelade",
     title: "Erdbeer Fruchtaufstrich mit Waldmeistergeschmack",
     description: "1 (max. 2 Gläser)",
