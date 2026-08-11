@@ -40,5 +40,14 @@ export const gifts = [
     price: "54,90€",
     url: "https://www.boerner.de/borner-vital-mandolin-basis-set/",
     image: "https://www.boerner.de/wp-content/uploads/2022/04/B09LMB8V21.MAIN_.jpg"
-  }
+  },
+
+{
+    id: "fallerMarmelade",
+    title: "Erdbeer Fruchtaufstrich mit Waldmeistergeschmack",
+    description: "1 (max. 2 Gläser)",
+    price: "5,49€",
+    url: "https://shop.fallerkonfitueren.de/erdbeer-fruchtaufstrich-mit-waldmeistergeschmack-330g-60-frucht/156803308138001",
+    image: "https://shop.fallerkonfitueren.de/media/0f/24/47/1784836864/c5093c8d277d8dfb129ffb7114193644.jpeg?ts=1786392094"
+  }  
 ];
