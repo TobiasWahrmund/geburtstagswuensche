@@ -49,5 +49,14 @@ export const gifts = [
     price: "5,49€",
     url: "https://shop.fallerkonfitueren.de/erdbeer-fruchtaufstrich-mit-waldmeistergeschmack-330g-60-frucht/156803308138001",
     image: "https://shop.fallerkonfitueren.de/media/0f/24/47/1784836864/c5093c8d277d8dfb129ffb7114193644.jpeg?ts=1786392094"
-  }  
+  },  
+
+  {
+    id: "zwillingMesser",
+    title: "Zwilling-Messerset",
+    description: "Made in Germany",
+    price: "189€",
+    url: "https://www.zwilling.com/de/zwilling-gourmet-7-tlg-selbstschaerfender-messerblock-schwarz-36133-210-0/36133-210-0.html",
+    image: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dwbf0fe8ea/images/large/36133-210-0_1.jpg?sw=651&sh=651&sm=fit"
+  } 
 ];
