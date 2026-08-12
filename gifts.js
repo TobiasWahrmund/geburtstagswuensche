@@ -58,5 +58,14 @@ export const gifts = [
     price: "189€",
     url: "https://www.zwilling.com/de/zwilling-gourmet-7-tlg-selbstschaerfender-messerblock-schwarz-36133-210-0/36133-210-0.html",
     image: "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dwbf0fe8ea/images/large/36133-210-0_1.jpg?sw=651&sh=651&sm=fit"
-  } 
+  }, 
+
+  {
+    id: "superfestGlaeser",
+    title: "Superfest Gläser",
+    description: "Sie werden nicht mehr hergestellt, aber ich hätte gerne welche :) Vielleicht kennt ja jemand jemanden, der jemanden kennt... damals waren die Gläser ja weitverbreitet.",
+    price: "N.A",
+    url: "https://de.wikipedia.org/wiki/Superfest",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Superfest-glas-025-2020.jpg/960px-Superfest-glas-025-2020.jpg?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+  }
 ];
